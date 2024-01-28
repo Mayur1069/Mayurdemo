@@ -1,4 +1,4 @@
 # Mayurdemo
-Author - Mayur Kshirsagar
+Author - Mayur Kshirsagar 
 <br>
-Device - Lenovo Ideapad
+Device - Lenovo Ideapad (Gaming)
